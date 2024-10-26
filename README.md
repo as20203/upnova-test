@@ -1,4 +1,4 @@
-# Express TypeScript Server
+# Shopify Api scraper
 
 A simple Express server built with TypeScript.
 
