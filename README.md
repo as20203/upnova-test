@@ -8,7 +8,6 @@ A simple Express server built with TypeScript.
 - [Installation](#installation)
 - [Running the Server](#running-the-server)
 - [API Endpoint](#api-endpoint)
-- [License](#license)
 
 ## Prerequisites
 
