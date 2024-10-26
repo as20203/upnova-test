@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "strict": true, // optional but recommended
+    "target": "ESNext",
+    "module": "commonjs",
+    "outDir": "./dist"
+    // other settings...
+  }
+}
